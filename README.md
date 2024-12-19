@@ -11,7 +11,14 @@ pip install hello_ridwaanhall
 ## Usage
 
 ```python
-from hello_ridwaanhall import hello
+from hello_ridwaanhall import hello, me
 
 print(hello.hi())
+print(hello.love())
+
+print(me.username())
+print(me.nim())
+print(me.name())
+print(me.email())
+print(me.college())
 ```
