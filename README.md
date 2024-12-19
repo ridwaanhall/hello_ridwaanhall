@@ -2,6 +2,10 @@
 
 A package that says hello to Ridwaan.
 
+## Project Information
+
+For more details on packaging Python projects, refer to the [official packaging tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
+
 ## Installation
 
 ```sh
