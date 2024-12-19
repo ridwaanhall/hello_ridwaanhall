@@ -9,7 +9,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md'), encoding='utf-8'
 
 setup(
     name='hello_ridwaanhall',
-    version='0.2.0',
+    version='0.2.1',
     packages=find_packages(),
     install_requires=[],  # Add your dependencies here
     author='Ridwan Halim',
