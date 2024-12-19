@@ -10,5 +10,5 @@ def name():
 def email():
     return "ridwaanhall.dev@gmail.com"
 
-def college():
+def nn():
     return f"{nim()}_{name()}"
